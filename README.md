@@ -1,6 +1,8 @@
 # Guided Python Project - Coffee Chatbot
 ## 10/23/2022
 
+This Python script implements a simple coffee ordering chatbot. It interacts with the user to determine their desired drink size, type, and optionally the type of milk for a latte. It then collects the user's name and confirms their order. The chatbot includes error handling to prompt the user to enter valid inputs when necessary.
+
 ```python
 def coffee_bot():
   print('Welcome to the cafe!')
